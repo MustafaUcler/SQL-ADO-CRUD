@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.TSQL linguist-detectable=false
+*.SQL linguist-detectable=true
