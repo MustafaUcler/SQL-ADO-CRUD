@@ -1,0 +1,110 @@
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\Databas.exe
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\Databas.deps.json
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\Databas.runtimeconfig.json
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\Databas.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\Databas.pdb
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jhega\source\repos\Databas\Databas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.csproj.AssemblyReference.cache
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfoInputs.cache
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfo.cs
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CoreCompileInputs.cache
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CopyComplete
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.dll
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\refint\Databas.dll
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.pdb
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\Databas.genruntimeconfig.cache
+C:\Users\jhega\source\repos\Databas\Databas\obj\Debug\net7.0\ref\Databas.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.exe
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.deps.json
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.runtimeconfig.json
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.pdb
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.AssemblyReference.cache
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfoInputs.cache
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfo.cs
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CoreCompileInputs.cache
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CopyComplete
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\refint\Databas.dll
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.pdb
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.genruntimeconfig.cache
+C:\Users\46735\Downloads\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\ref\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.exe
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.deps.json
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.runtimeconfig.json
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\Databas.pdb
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.AssemblyReference.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfoInputs.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.AssemblyInfo.cs
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CoreCompileInputs.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.csproj.CopyComplete
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\refint\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.pdb
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\Databas.genruntimeconfig.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\Databas\obj\Debug\net7.0\ref\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.exe
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.deps.json
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.runtimeconfig.json
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.pdb
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.AssemblyReference.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.AssemblyInfoInputs.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.AssemblyInfo.cs
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.CoreCompileInputs.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.CopyComplete
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\refint\Databas.dll
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.pdb
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.genruntimeconfig.cache
+C:\Users\46735\Desktop\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\ref\Databas.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.exe
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.deps.json
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.runtimeconfig.json
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\Databas.pdb
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.AssemblyReference.cache
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.AssemblyInfoInputs.cache
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.AssemblyInfo.cs
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.CoreCompileInputs.cache
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.csproj.CopyComplete
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\refint\Databas.dll
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.pdb
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\Databas.genruntimeconfig.cache
+C:\Users\46735\Documents\GitHub\SQL-ADO CRUD\CRUDmustafa.ucler\Databas\obj\Debug\net7.0\ref\Databas.dll
